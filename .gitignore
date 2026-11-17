@@ -1,0 +1,14 @@
+__pycache__/
+__marimo__/
+*.pyc
+.venv/
+venv/
+gnomad_slim/
+gtex_out/
+loc_out/
+*.parquet
+*.log
+*.duckdb
+*.vcf.bgz
+*.vcf.gz
+*.tbi
